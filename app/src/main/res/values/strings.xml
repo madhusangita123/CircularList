@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CircularList</string>
+    <string name="intro_message">
+        <![CDATA[
+
+
+                Demonstration of Circular List using RecyclerView and LinearLayoutManager.
+
+        ]]>
+    </string>
+    <string name="element_text">Element</string>
+    <string name="dumble_list">Dumble List</string>
+    <string name="circular_list">Circular List</string>
+</resources>
